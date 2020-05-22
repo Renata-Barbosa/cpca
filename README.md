@@ -27,7 +27,7 @@ The following list provides the links to the datasets we used in our experiments
 * UCI [QSAR](http://archive.ics.uci.edu/ml/datasets/QSAR+oral+toxicity)
 * UCI [SEMEION](https://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit)
 * UCI [SMART](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
-* UCI [SPAM](XXX)
+* UCI [SPAM](https://archive.ics.uci.edu/ml/datasets/spambase)
 * UCI [UJIN](https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc)
 * UCI [WINE](http://archive.ics.uci.edu/ml/datasets/Wine/)
 * [ULCER_SET](https://github.com/gu-blanco/qtdu/)
